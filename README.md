@@ -2,7 +2,7 @@
 
 # Edgardo Pinares
 
-<img src="gohan.gif" width="850">
+<img src="gohan 2.gif" width="850">
 
 <br>
 
