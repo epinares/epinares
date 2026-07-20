@@ -1,43 +1,41 @@
 <div align="center">
+
 # Edgardo Pinares
-`Software Engineer`
-<br>
-<img src="./gohan 2.gif" width="700">
-<br><br>
 
-## Stack Tecnológico
-`React` • `React Native` • `Python` • `JavaScript` • `HTML5` • `CSS3`
-<br><br>
+Software Engineer
+
+<img src="./gohan 2.gif" width="800" style="border-radius: 8px;">
 
 ---
 
-## 🎨 Proyectos Destacados
+## Technology Stack
 
-### **[ASCII Art Pro](https://epinares.github.io/ascii-art-pro/)** 🚀
-Convierte imágenes y GIFs a arte ASCII animado con colores y filtros avanzados.
-
-**Features:**
-- 🎬 Decodificador GIF nativo (LZW)
-- 🌈 9 paletas de color + personalización
-- 🎯 Dithering, Sobel, modo Braille
-- 📤 Exporta a PNG, GIF, HTML, Python, TXT
-- ⚡ 100% client-side, sin dependencias
-
-**[→ Pruébalo aquí](https://epinares.github.io/ascii-art-pro/)**
+React · React Native · Python · JavaScript · TypeScript
 
 ---
 
-## 📊 Sobre mí
+## Featured Project
 
-Desarrollo soluciones frontend interactivas y visuales. Especializado en **JavaScript vanilla** y frameworks como React. Me encanta convertir ideas complejas en código limpio y eficiente.
+### ASCII Art Pro
+
+[View Project](https://epinares.github.io/ascii-art-pro/) · [Repository](https://github.com/epinares/ascii-art-pro)
 
 ---
 
 <br>
-<img src="./goten.gif" width="220">
-&nbsp;&nbsp;&nbsp;
-<img src="./vegeta.gif" width="220">
-&nbsp;&nbsp;&nbsp;
-<img src="./goku.gif" width="220">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./goten.gif" width="180" style="border-radius: 4px;">
+    </td>
+    <td align="center" width="33%">
+      <img src="./vegeta.gif" width="180" style="border-radius: 4px;">
+    </td>
+    <td align="center" width="33%">
+      <img src="./goku.gif" width="180" style="border-radius: 4px;">
+    </td>
+  </tr>
+</table>
 
 </div>
