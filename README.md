@@ -4,7 +4,7 @@
 
 Software Engineer
 
-<img src="./gohan 2.gif" width="800" style="border-radius: 8px;">
+<img src="./gohan 2.gif" width="400" style="border-radius: 8px;">
 
 ---
 
