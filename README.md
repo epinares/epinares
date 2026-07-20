@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./gohan.gif" width="700">
+<img src="./gohan 2.gif" width="700">
 
 <br><br>
 
